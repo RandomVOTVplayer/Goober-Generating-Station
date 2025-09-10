@@ -28,8 +28,8 @@ Level zones:
 0 meters (FUEL RANGE) - Meltdown begins in 2 minutes
 
 # Development plan
-below you can see the current plan for development:
-not ready yet
+below you can see the current plan for development:  
+[Development plan](https://github.com/RandomVOTVplayer/Goober-Generating-Station/blob/main/Development%20plan%20%28V0.1%29.md)
 
 # other information 
 ## How can I help?
