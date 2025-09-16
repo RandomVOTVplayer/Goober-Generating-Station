@@ -4,7 +4,7 @@ A Roblox project about operating, managing, and maintaining a Nuclear Reactor.
 # What kind of reactor is this?
 This is a Non-realistic (not creatable in real life) BWR-RBMK hybrid. The reactor specs are listed below:
 
-Moved. link will be made soon
+[Moved](https://github.com/RandomVOTVplayer/Goober-Generating-Station/blob/RandomVOTVplayer-patch-1/Information%2FSystem-Classification.md#Reactor-Specifications)
 
 # Development plan
 below you can see the current plan for development:  
