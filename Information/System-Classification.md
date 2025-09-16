@@ -55,7 +55,7 @@ Level zones:
 1 meter (39 inches) - MSIV closure and turbine trip
 0 meters (FUEL RANGE) - Meltdown begins in 2 minutes
 
-> [!WARN]
+> [!WARNING]
 > if water level is in the fuel range for too long, a Meltdown will start. signs of a full meltdown and partial meltdown will begin to appear after 30 seconds to a minute. See the below information about meltdowns.
 
 ## signs of a partial meltdown
