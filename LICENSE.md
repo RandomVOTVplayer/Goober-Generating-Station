@@ -4,7 +4,7 @@
 randomVOTVplayer (alias: Ddubs5, Combine_Soldier)
 
 **License listed:** 
-[CC-BY-NC 4.0]( [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **License details and Terms:**
 By using the Products, Information, Models, Softwares, Images, Text and other data (from now on referred to as **Media**) found inside of this repository, you agree to:
