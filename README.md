@@ -1,6 +1,8 @@
 # Goober-Generating-Station
 A Roblox project about operating, managing, and maintaining a Nuclear Reactor.
 
+github version 0.1.0
+
 # What kind of reactor is this?
 This is a Non-realistic (not creatable in real life) BWR-RBMK hybrid. The reactor specs are listed below:
 
