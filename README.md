@@ -3,8 +3,9 @@ A Roblox project about operating, managing, and maintaining a Nuclear Reactor.
 
 github version 0.1.1
 
-**Closed-Source Notice** 
-This project is protected under CC-BY-NC 4.0
+> [!NOTICE]
+>**Closed-Source Notice** 
+>This project is protected under CC-BY-NC 4.0
 for more information, see the [licensing and terms](LICENSE.md) for more information. 
 
 # What kind of reactor is this?
