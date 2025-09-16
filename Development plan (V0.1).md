@@ -4,6 +4,7 @@ Development is split into phases so that I dont overwhelm myself with an ever gr
 ## PHASE I
 - [X] construct recirculation pumps
 - [X] make annunciator panels
+- [ ] fix the circulation pump system. again.
 - [ ] construct steam management system
 - [ ] reconstruct boiling system
 - [ ] reconstruct reactor physics
