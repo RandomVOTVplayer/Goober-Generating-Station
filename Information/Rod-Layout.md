@@ -1,12 +1,17 @@
 <img width="1491" height="498" alt="image" src="https://github.com/user-attachments/assets/dcb3e432-b7f9-43a8-9770-fbf6924ed3d2" />
 
-Key:
-P (Primary, First Rod Group, PCR): 16 Control Rods
-S (Secondary, Second Rod Group, SCR): 32 Control Rods
-T (Tertiary, Third Rod Group, TCR): 12
-A (AZ Rods (yes, very original ik), Emergency Rod Group, ECR): 16
-Q (Quaternary, Fourth Rod Group, QCR): 16
-Total Control Rods: 92
+Key: 
+P (Primary, First Rod Group, PCR): 16 Control Rods 
+
+S (Secondary, Second Rod Group, SCR): 32 Control Rods 
+
+T (Tertiary, Third Rod Group, TCR): 12 
+
+A (AZ Rods (yes, very original ik), Emergency Rod Group, ECR): 16 
+
+Q (Quaternary, Fourth Rod Group, QCR): 16 
+
+Total Control Rods: 92 
 
 
 It has been a struggle, primarily because I want a good rod spacing and pattern for this. For example, I don't want 7 Secondary Control Rods lined up in a single line. Also, I wanted it to at least make some sort of sense.
