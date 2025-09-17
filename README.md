@@ -15,7 +15,7 @@ This is a Non-realistic (not creatable in real life) BWR-RBMK hybrid.
 
 # Development plan
 below you can see the current plan for development:  
-> [!tip]
+> [!note]
 > [Development plan has gotten its own file!](https://github.com/RandomVOTVplayer/Goober-Generating-Station/blob/main/Development%20plan%20%28V0.1%29.md)
 
 # other information 
