@@ -44,7 +44,7 @@ Reactor specs:
 - probably a pain to operate: true
 
 > [!tip]
-> Control Rod information can be found in [this](https://github.com/RandomVOTVplayer/Goober-Generating-Station/main/Information/)
+> Control Rod information can be found in [this](https://github.com/RandomVOTVplayer/Goober-Generating-Station/blob/RandomVOTVplayer-patch-1/Information%2FRod-Layout.md) document!
 
 
 Level zones:
