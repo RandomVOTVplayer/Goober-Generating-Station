@@ -6,6 +6,7 @@
 | [Introduction](#Introduction) | Self explanatory |
 | [Terminology](#Teriminology) | Terminology for systems, diagrams, etc. |
 | [Reactor Specs](#Reactor-Specificatiobs) | Specifications and general information for the nuclear reactor |
+| [Annunciators](#Annunciator-Guide)| a Guide that explains how Annunciators are labeled, how to refer to indications on annunciators, ad annunciator types|
 
 # Introduction
 This document is intended to help explain what different parts of the reactor, documents, and other things that may be unclear.
@@ -76,3 +77,7 @@ Level zones:
     - MSIV_ISOL_SINGLE_RX (based on many conditions. only one condition in the list has to be met for the isolation single to be triggered. theblist can be found here[link coming soon])
 - Reactor pressure cannot be maintained properly 
 - Reactor power cannot be controlled
+
+# Annunciator-Guide
+> [!warn]
+> not ready yet
