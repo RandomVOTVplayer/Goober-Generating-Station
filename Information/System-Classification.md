@@ -85,9 +85,14 @@ Level zones:
 # Annunciator-Guide
 Annunciators are vital parts of any reactor system. These annunciators have special names thabis unique to the annuncistor, and will never be repeated.
 
-Annunciator designations begin with 'P' which is then followed by a pattern of Numbers and or Letters. This name is not just a random selection of Numbers and Letters, the name describes the location, type of panel, and more about the annunciator grid. Check with the below reference guide for more information. 
+Annunciator designations begin with 'P' which is then followed by a pattern of Numbers and or Letters. This name is not just a random selection of Numbers and Letters, the name describes the location, type of panel, and more about the annunciator grid. Check with the below reference guide for more information.
 
 |Identifier (number or letter) | Information |
 |----------------------------- | -----------|
 | P (**P**-0000Z000| indicates the name is related to a Panel (could be a Control Panel or Annuncistor Panel) |
-|
+|first integer pair (P-**00**00Z000)| these two integers display how many indicators are on the panel. |
+|Second integer pair (P-00**00**Z000)| These two integers display which Control Panel the Annunciator Panel os located on. See [PLACEHOLDER](#Annunciator-Guide) for panel ID information |
+|The letter (P-0000**Z**000| Based on the type of Annunciator Panel. See [PLACEHOLDER](#Annunciator-Guide) for more information on Panel types. |
+|Integer after the Letter (P-0000Z**0**00) | Boolean (true or false, 1 or 0), If the annuncitor panel indicators can be clicked or has a click able button on the panel to acknowledge and or silence the panel  (if applicable)|
+|Second to last Integer (P-0000Z0**0**0)| how many columns the Annunciator Panel has|
+|Final Number (P-0000Z00**0**)| how many rows the Annunciator Panel has.|
