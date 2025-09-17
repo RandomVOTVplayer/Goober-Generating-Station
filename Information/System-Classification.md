@@ -43,6 +43,9 @@ Reactor specs:
 - Positive Void Coefficient
 - probably a pain to operate: true
 
+> [!tip]
+> Control Rod information can be found in [this](https://github.com/RandomVOTVplayer/Goober-Generating-Station/main/Information/)
+
 
 Level zones:
 9 meters ( 354 Inches) - RCIC, LPCI, and Pumps 1 and 2 trip
