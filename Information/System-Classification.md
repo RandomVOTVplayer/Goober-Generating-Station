@@ -89,7 +89,7 @@ Annunciator designations begin with 'P' which is then followed by a pattern of N
 
 |Identifier (number or letter) | Information |
 |----------------------------- | -----------|
-| P (**P**-0000Z000| indicates the name is related to a Panel (could be a Control Panel or Annuncistor Panel) |
+| P (**P**-0000Z000| indicates the name is related to a Panel (could be a Control Panel or Annunciator Panel) |
 |first integer pair (P-**00**00Z000)| these two integers display how many indicators are on the panel. |
 |Second integer pair (P-00**00**Z000)| These two integers display which Control Panel the Annunciator Panel os located on. See [PLACEHOLDER](#Annunciator-Guide) for panel ID information |
 |The letter (P-0000**Z**000| Based on the type of Annunciator Panel. See [PLACEHOLDER](#Annunciator-Guide) for more information on Panel types. |
