@@ -42,6 +42,7 @@ Reactor specs:
 - Positive temperature Coefficient
 - Positive Void Coefficient
 - probably a pain to operate: true
+-# /j the above intended to be a joke
 
 > [!tip]
 > Control Rod information can be found in [this](https://github.com/RandomVOTVplayer/Goober-Generating-Station/blob/RandomVOTVplayer-patch-1/Information%2FRod-Layout.md) document!
@@ -62,13 +63,13 @@ Level zones:
 
 1 meter (39 inches) - MSIV closure and turbine trip
 
-0 meters (FUEL RANGE) - Meltdown begins in 2 minutes
+0 meters (FUEL RANGE) - Meltdown begins in 4 minutes
 
 > [!WARNING]
 > if water level is in the fuel range for too long, a Meltdown will start. signs of a full meltdown and partial meltdown will begin to appear after 30 seconds to a minute. See the below information about meltdowns.
 
 ## signs of a partial meltdown
-- Control rods stuck
+- Control rods stuck/ fail to respond
 - temperature consistently above 1200°F
 - temperature gauge cannot maintain a stable temperature
 - Feedwater Pumps struggle to maintain a reactor level
@@ -82,5 +83,6 @@ Level zones:
 - Reactor power cannot be controlled
 
 # Annunciator-Guide
-> [!note]
-> not ready yet
+Annunciators are vital parts of any reactor system. These annunciators have special names thabis unique to the annuncistor, and will never be repeated.
+
+Annunciator designations begin with 'P' which is then followed by a pattern of Numbers and or Letters. This name is not just a random selection of Numbers and Letters, the name describes the location, type of panel, and more about the annunciator grid. Check with the below reference guide for more information. 
