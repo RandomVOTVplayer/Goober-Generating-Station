@@ -79,5 +79,5 @@ Level zones:
 - Reactor power cannot be controlled
 
 # Annunciator-Guide
-> [!warning]
+> [!note]
 > not ready yet
