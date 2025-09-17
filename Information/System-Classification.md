@@ -86,3 +86,7 @@ Level zones:
 Annunciators are vital parts of any reactor system. These annunciators have special names thabis unique to the annuncistor, and will never be repeated.
 
 Annunciator designations begin with 'P' which is then followed by a pattern of Numbers and or Letters. This name is not just a random selection of Numbers and Letters, the name describes the location, type of panel, and more about the annunciator grid. Check with the below reference guide for more information. 
+
+|Identifier (number or letter) | Information |
+|----------------------------- | -----------|
+| oo ii aa ii | mackwell|
