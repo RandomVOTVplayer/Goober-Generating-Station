@@ -89,4 +89,5 @@ Annunciator designations begin with 'P' which is then followed by a pattern of N
 
 |Identifier (number or letter) | Information |
 |----------------------------- | -----------|
-| oo ii aa ii | mackwell|
+| P (**P**-0000Z000| indicates the name is related to a Panel (could be a Control Panel or Annuncistor Panel) |
+|
