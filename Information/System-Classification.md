@@ -117,3 +117,6 @@ These kinds of panels have no Primary Annunciators, and are typically only used 
 [Placeholder]
 
 **Type 3 Panels**
+Type 3 panels typically are shorter in stature, and smaller than Type 1 panels. these panels are mostly used for systems that require a Annunciation, but not the amount Type 1 panels are used for. Type 2 panels are almost only used in Control Rooms that are outsde of the control room.
+
+[placeholder]
