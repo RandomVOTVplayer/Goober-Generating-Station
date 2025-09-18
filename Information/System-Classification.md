@@ -89,10 +89,10 @@ Annunciator designations begin with 'P' which is then followed by a pattern of N
 
 |Identifier (number or letter) | Information |
 |----------------------------- | -----------|
-| P (**P**-0000Z000| indicates the name is related to a Panel (could be a Control Panel or Annunciator Panel) |
+| P (**P**-0000Z000| indicates the name is related to a Control Panel|
 |first integer pair (P-**00**00Z000)| these two integers display how many indicators are on the panel. |
-|Second integer pair (P-00**00**Z000)| These two integers display which Control Panel the Annunciator Panel os located on. See [Panel ID](##Panel-IDs) section for panel ID information |
-|The letter (P-0000**Z**000| Based on the type of Annunciator Panel. See [the Types Of Annuncistors](##Types-Of-Annunciators)  section for more information on Panel types. |
+|Second integer pair (P-00**00**Z000)| These two integers display which Control Panel the Annunciator Panel os located on. See [Panel ID](#Panel-IDs) section for panel ID information |
+|The letter (P-0000**Z**000| Based on the type of Annunciator Panel. See [the Types Of Annuncistors](#Types-Of-Annunciators)  section for more information on Panel types. |
 |Integer after the Letter (P-0000Z**0**00) | Boolean (true or false, 1 or 0), If the annuncitor panel indicators can be clicked or has a click able button on the panel to acknowledge and or silence the panel  (if applicable)|
 |Second to last Integer (P-0000Z0**0**0)| how many columns the Annunciator Panel has|
 |Final Number (P-0000Z00**0**)| how many rows the Annunciator Panel has.|
