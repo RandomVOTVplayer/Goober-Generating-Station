@@ -1,6 +1,8 @@
 >[!note]
 > this file is not completed and will be worked on constantly!
 
+it is recommended to view this file in Github Docs
+
 | Section Title | Rundown |
 | -------| ------- |
 | [Introduction](#Introduction) | Self explanatory |
