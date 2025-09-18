@@ -1,11 +1,11 @@
 <img width="1491" height="498" alt="image" src="https://github.com/user-attachments/assets/dcb3e432-b7f9-43a8-9770-fbf6924ed3d2" />
 
 Key:
-P (Primary, First Rod Group, PCR): 16 Control Rods <\br>
-S (Secondary, Second Rod Group, SCR): 32 Control Rods <\br>
-T (Tertiary, Third Rod Group, TCR): 12 <\br>
-A (AZ Rods (yes, very original ik), Emergency Rod Group, ECR): 16 <\br>
-Q (Quaternary, Fourth Rod Group, QCR): 16 <\br>
+P (Primary, First Rod Group, PCR): 16 Control Rods </br>
+S (Secondary, Second Rod Group, SCR): 32 Control Rods </br>
+T (Tertiary, Third Rod Group, TCR): 12 </br>
+A (AZ Rods (yes, very original ik), Emergency Rod Group, ECR): 16 </br>
+Q (Quaternary, Fourth Rod Group, QCR): 16 </</br>
 Total Control Rods: 92
 
 
