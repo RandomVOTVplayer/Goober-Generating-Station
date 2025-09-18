@@ -102,4 +102,16 @@ Annunciator designations begin with 'P' which is then followed by a pattern of N
 > this will be expanded on later
 
 ## Panel-IDs
-yes
+There are 3 panel types that may be seen in Control Rooms throughout the facility.
+
+**Type 1 panels** </br>
+these panels are short, Low to the ground and have very little instrumentation on them. they typically only hold a handful of controls, usually Emergency shutdowns, and basic information on them.
+
+[place-holder]
+
+**Type 2 Panels** </br>
+These kinds of panels have no Primary Annunciators, and are typically only used for Lowlevel control of some subsytems.
+
+[Placeholder]
+
+**Type 3 Panels**
