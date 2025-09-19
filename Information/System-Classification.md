@@ -124,5 +124,29 @@ Type 3 panels typically are shorter in stature, and smaller than Type 1 panels. 
 
 Panels have a designation, similar to Annunciators. The easiest way to discriminate between the two is by their name. If their name contains a Letter, then it is an anunciator. Otherwise, it is a Panel. See the table below for information regarding their name: </br>
 
-| Panel IDs |
+**Panel IDs**
+| Designstion | Information |
+| ----------- | ----------- |
+| **P**-0000000 | Indicates the Name is related to a Panel |
+| P-**00**00000 | The assigned circuit number. See [Circuit Numbers](#Circuit-Numbers) for more information|
+| P-00**00**000 | These two numbers are the Intrument Numbers. They are based off how many measuring devices (instruments) are on the panel|
+| P-0000**00**0 | These two are based off how many Control Devices there are on the Panel.|
+| P-000000**0** | This lone number is the individual panel ID. This is useful for when there are multiple panels related to the same  Circuit Number.|
+
+## Circuit Numbers
+Circuit numbers are very easy. They are used in Panels specifically. Circuit IDs concist of two numbers.
+
+| Circuit | ID |
+| ------- | -- |
+| Primary Circuit | 10 |
+| MCC | 11 |
+| MCC - Heaters | 12
+| Emergency systems | 13 |
+| Steam Lines | 14 |
+| ----- | ----- |
+| Secondary Circuit | 20 |
+| Condenser | 21 |
+| Turbine | 22 | <!---- Turbine is on the Secondary Circuit simply because I want it to ----!>
+| CST | 23 |
 | ---- | ---- |
+| Electrical Circuit | 30 |
