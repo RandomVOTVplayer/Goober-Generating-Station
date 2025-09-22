@@ -109,7 +109,7 @@ There are 3 panel types that may be seen in Control Rooms throughout the facilit
 **Type 1 panels** </br>
 these panels are short, Low to the ground and have very little instrumentation on them. they typically only hold a handful of controls, usually Emergency shutdowns, and basic information on them.
 
-[place-holder]
+[An example can be seen here](###Reactor Emergency Control Panel)
 
 **Type 2 Panels** </br>
 These kinds of panels have no Primary Annunciators, and are typically only used for Lowlevel control of some subsytems.
@@ -143,10 +143,27 @@ Circuit numbers are very easy. They are used in Panels specifically. Circuit IDs
 | MCC - Heaters | 12
 | Emergency systems | 13 |
 | Steam Lines | 14 |
-| ----- | ----- |
+| | |
 | Secondary Circuit | 20 |
 | Condenser | 21 |
 | Turbine | 22 | <!---- Turbine is on the Secondary Circuit simply because I want it to ----!>
 | CST | 23 |
-| ---- | ---- |
+| | |
 | Electrical Circuit | 30 |
+
+
+
+Below are some Hand-written diagrams of some panels. </br>
+### MCC Control Panel </br>
+<img width="796" height="479" alt="image" src="https://github.com/user-attachments/assets/d71d9c9d-73b1-4b3b-a97b-d0c583e9e238" />
+
+### Electrical Panel </br>
+<img width="740" height="508" alt="image" src="https://github.com/user-attachments/assets/bd221d87-d3f4-4a01-ad28-60cdfe875112" />
+
+### Emergenct Coolant Panel </br>
+<img width="750" height="540" alt="image" src="https://github.com/user-attachments/assets/60576aca-7cb9-4696-b522-9d21ff7a85f6" />
+
+### Reactor Emergency Control Panel </br>
+<img width="758" height="534" alt="image" src="https://github.com/user-attachments/assets/88ebc5ff-666f-4c68-8021-0f9a35b95a77" />
+
+
