@@ -33,7 +33,7 @@ Below is a list of Terms, Information about the term, and Abbreviation if applic
 |RX| Received signal|
 |TX| (rarely used) Transmit Signal|
 
-**S.T.R.A.T.S**
+**S.T.R.A.T.S** </br>
 **S**tablize the reactor - ensure the reactor is always in a stable state at all times in a safe and controlled environment! </br>
 **T**hink of the current operative situation - Situational awareness is key to safe operations! </br>
 **R**ationalize your decisions! when seconds count, stress is not an option! </br>
