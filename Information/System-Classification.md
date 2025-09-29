@@ -35,6 +35,7 @@ Below is a list of Terms, Information about the term, and Abbreviation if applic
 
 **S.T.R.A.T.S** 
 </br>
+An essential operation and safety philosophy that keeps you, your colleagues, and the public safe at all times!
 
 **S**tablize the reactor - ensure the reactor is always in a stable state at all times in a safe and controlled environment! 
 </br>
@@ -45,13 +46,15 @@ Below is a list of Terms, Information about the term, and Abbreviation if applic
 **R**ationalize your decisions! when seconds count, stress is not an option! 
 </br>
 
-**A**utomate Any system you can for maximum efficiency! (especially on smaller shift sizes!) 
+**A**utomate any system you can for maximum efficiency! (especially on smaller shift sizes!) 
 </br>
 
 **T**reat the reactor with care! It is a sensitive system that can be very picky in what you do! 
 </br>
 
 **S**upervise your newer colleagues! Teamwork will make you and your team an unstoppable shift!
+>[!tip]
+> S.T.R.A.T.S is a rule of thumb that is good to follow in almost any situation, unless stated otherwise by current avaliable **Emergency Operation Procedures (EOPs)**
 
 # Reactor-Specifications
 
