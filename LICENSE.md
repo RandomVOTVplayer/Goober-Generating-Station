@@ -29,3 +29,17 @@ This license does not apply to media where an alternative license is explicitly 
 > **Media protected under [license name]**
 
 **Note that licenses that demand the whole project protected under it will not be used, and media will likely used derivatives of CC-BY. EG: GPL AGPL**
+
+
+# Illegal use of media
+Illegal use of media counts as usage of media that violates stated license.  
+Discovered actions that violate licensing information will be dealt with by: </br>
+a. notifying you of misuse of content </br>
+b. reporting content platform-side </br>
+c. applicable legal action </br>
+
+some above listed actions will be used multiple times, exclusion of c.
+
+# Old media 
+old media counts as
+- previous offcial releases and documents that are not the latest release.
