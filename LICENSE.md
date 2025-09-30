@@ -17,3 +17,7 @@ All media found inside of this github come **without a Warranty of any kind**. I
 
 **Example of Proper/Expected Attribution:** 
 (media-name.(obj, jpg, txt, etc)) - (Choice of name/Alias)
+
+
+## Notice of exceptions in licensing
+This license does not apply to media if stated directly in the release/ file. this will typically be in a note box in bold, along with the license name.
