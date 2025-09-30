@@ -2,6 +2,7 @@
 Development is split into phases so that I dont overwhelm myself with an ever growing task list. tasks or ordered by expected difficulty, with easiest being first, then hardest being last.
 
 ## PHASE I
+- [ ] fix the rod layout information
 - [X] construct recirculation pumps
 - [X] make annunciator panels
 - [ ] fix the circulation pump system. again.
