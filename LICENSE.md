@@ -48,3 +48,12 @@ Retroactive licensing, or Grandfathered media, is any form of media and associat
 Media or Commits made before [date here] are protected under this license.
 </br>
 This clause only applies this once, and any new versions of this license will NOT protect Grandfathered media, as this version will be the official license version for said media.
+
+
+**Latest Releases:**
+
+ All current and future releases, documents, and media in this repository are protected under the most up-to-date version of the license stated in this file.
+
+**Older Releases:**
+
+ Older releases, documents, and media (i.e., those not part of the latest official release) remain protected by the license that was in effect at the time they were published. Each older release will include a link or reference to the applicable license version.
