@@ -1,5 +1,7 @@
 # License Information
 
+## License Version 1.0
+
 **License holder:**
 randomVOTVplayer (alias: Ddubs5, Combine_Soldier)
 
@@ -40,6 +42,9 @@ c. applicable legal action </br>
 
 some above listed actions will be used multiple times, exclusion of c.
 
-# Old media 
-old media counts as
-- previous offcial releases and documents that are not the latest release.
+# Retroactive Licenseing | Grandfathered Media
+Retroactive licensing, or Grandfathered media, is any form of media and associated Commits that have been made before official release of this license.
+</br>
+Media or Commits made before [date here] are protected under this license.
+</br>
+This clause only applies this once, and any new versions of this license will NOT protect Grandfathered media, as this version will be the official license version for said media.
