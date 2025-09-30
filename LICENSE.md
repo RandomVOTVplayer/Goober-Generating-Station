@@ -57,3 +57,5 @@ This clause only applies this once, and any new versions of this license will NO
 **Older Releases:**
 
  Older releases, documents, and media (i.e., those not part of the latest official release) remain protected by the license that was in effect at the time they were published. Each older release will include a link or reference to the applicable license version.
+
+The version of the license can be found by finding the most recent commit in the history for that version of the license
