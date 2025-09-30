@@ -20,4 +20,12 @@ All media found inside of this github come **without a Warranty of any kind**. I
 
 
 ## Notice of exceptions in licensing
-This license does not apply to media if stated directly in the release/ file. this will typically be in a note box in bold, along with the license name.
+This license does not apply to media where an alternative license is explicitly stated in the file or release. Such exceptions will be clearly marked in a bold note box along with the applicable license name. Below shows some examples of what you may see:  </br>
+
+>[!NOTE]
+> **This media is licensed under [License name]**
+
+>[!WARNING]
+> **Media protected under [license name]**
+
+**Note that licenses that demand the whole project protected under it will not be used, and media will likely used derivatives of CC-BY.**
