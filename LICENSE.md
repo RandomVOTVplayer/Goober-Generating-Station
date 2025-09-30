@@ -28,4 +28,4 @@ This license does not apply to media where an alternative license is explicitly 
 >[!WARNING]
 > **Media protected under [license name]**
 
-**Note that licenses that demand the whole project protected under it will not be used, and media will likely used derivatives of CC-BY.**
+**Note that licenses that demand the whole project protected under it will not be used, and media will likely used derivatives of CC-BY. EG: GPL AGPL**
