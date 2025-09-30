@@ -20,7 +20,7 @@ below you can see the current plan for development:
 
 # other information 
 ## How can I help?
-At the moment, I do not let just anyone help develop the game. at the moment, it's me, and another user named Banditdog19. I only allow people to access the development game if I trust them.
+At the moment, I do not let just anyone help develop the game. at the moment, it's me, and another user named Banditdog19. I only allow people to access the development game if I know I can trust them.
 
 However, you can help by providing models or scripts listed below:
 - Nothing requested at this moment :]
