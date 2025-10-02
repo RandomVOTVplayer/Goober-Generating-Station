@@ -166,14 +166,29 @@ Circuit numbers are very easy. They are used in Panels specifically. Circuit IDs
 | MCC - Heaters | 12
 | Emergency systems | 13 |
 | Steam Lines | 14 |
+| Bypass | 15 |
 | | |
 | Secondary Circuit | 20 |
 | Condenser | 21 |
 | Turbine | 22 | <!---- Turbine is on the Secondary Circuit simply because I want it to ----!>
 | CST | 23 |
+| Steam Lines | 24
 | | |
 | Electrical Circuit | 30 |
-
+| Bus 1 | 31 |
+| Bus 2 | 32 |
+| Bus 3 | 33 |
+| Emergency Bus | 34 |
+| DC Bus | 35 |
+| Generators | 36 |
+| Ventalation | 37 |
+| Unassigned Designation | 40 |
+| Reactor Building (RB) | 41 |
+| Turbine Building (TB) | 42 |
+| Emergency | 43 |
+| White Space | 44 |
+> [!note]
+> IDs are subject to change at any time
 
 
 Below are some Hand-written diagrams of some panels. </br>
