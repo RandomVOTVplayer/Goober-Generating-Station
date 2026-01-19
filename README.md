@@ -1,3 +1,7 @@
+#ATTENTION
+Unfortunately, due to recent roblox changes, this project has been postponed until further notice, and will not receive any further updates.
+I apologize for the dissapointment
+
 # Goober-Generating-Station
 A Roblox project about operating, managing, and maintaining a Nuclear Reactor.
 
