@@ -2,6 +2,10 @@
 Unfortunately, due to recent roblox changes, this project has been postponed until further notice, and will not receive any further updates.
 I apologize for the dissapointment
 
+# IMPORTANT NEWS: 2026-2-5 (yyy-mm-dd)
+As of today, I am planning on migrating this project over to Godot. However, this will not happen for some time, as I am currently working on projects that have my attention.
+Things are happening, and more updated will be posted here once available 
+
 # Goober-Generating-Station
 A Roblox project about operating, managing, and maintaining a Nuclear Reactor.
 
